@@ -1,0 +1,59 @@
+Python Assessment: Univariate Analysis
+
+Question 1
+Using the NHANES data and the previous notebook, the following questions will be about the variable BPXSY2 (with missing values remove).
+Round your answer to the nearest tenth. (ex: 2.33 should be 2.3, 2.15 should be 2.2)
+What is the median?
+ANS : 122.0
+
+Question 2
+What is the mean?
+Round your answer to the nearest tenth. (ex: 2.33 should be 2.3, 2.15 should be 2.2)
+ANS : 124.8
+
+Question 3
+What is the standard deviation?
+Round your answer to the nearest tenth. (ex: 2.33 should be 2.3, 2.15 should be 2.2)
+ANS : 18.5
+
+Question 4
+What is the max?
+Round your answer to the nearest tenth. (ex: 2.33 should be 2.3, 2.15 should be 2.2)
+ANS : 238.0
+
+Question 5
+What is the Interquartile Range (IQR)?
+Round your answer to the nearest tenth. (ex: 2.33 should be 2.3, 2.15 should be 2.2)
+ANS : 22.0
+
+Question 6
+Which of these will return descriptive statistics for a numeric Series ‘s’?
+a. s.descriptive_stats()
+b. s.describe()
+c. Series.describe()
+d. describe(s)
+ANS : b
+
+Question 7
+Select all that apply: Which will produce a histogram of the numeric Series ‘s’
+a. sns.hist(s)
+b. sns.distplot(s)
+c. sns.distplot(a=s).set(title="Histogram of s")
+d. sns.hist(a=s).set(title="Histogram of s")
+e. sns.hist(a=s)
+ANS : a,b
+
+Question 8
+How many rows of data from the DataFrame 'df' are shown with the following code: 
+df.head()
+ANS : 5
+
+Question 9
+What data is shown when the following code is run?
+df.head(2)
+a. Columns 1 and 2
+b. Columns 0 and 1
+c. Rows 1 and 2
+d. Rows 0 and 1
+e. All rows containing the value '2'
+ANS : d
