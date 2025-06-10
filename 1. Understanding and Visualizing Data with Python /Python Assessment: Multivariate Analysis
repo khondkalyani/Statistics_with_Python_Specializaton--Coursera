@@ -1,0 +1,33 @@
+Python Assessment: Multivariate Analysis
+
+Question 1
+Using information about the Cartwheel dataset from the previous assignments, answer the following questions.
+Is the relationship between ‘Height’ and ‘Wingspan’ linear?
+Yes
+No
+ANS : a
+
+Question 2
+Is the relationship between ‘Wingspan’ and ‘Height’ linear for each gender?
+Yes
+No
+ANS : a
+
+Question 3
+Is the interquartile range of ‘CWDistance’ similar to ‘Wingspan’?
+Yes
+No
+ANS : b
+
+Question 4
+Looking at the barplot of ‘Glasses’ and ‘CWDistance’, which glasses condition has a (slightly) larger estimate of cartwheel distance?
+Glasses-Y
+Glasses-N
+ANS : b
+
+Question 5
+Looking at the barplot of ‘Glasses’ and ‘CWDistance’ split by ‘Gender’, which glasses condition has a (slightly) larger estimate of cartwheel distance?
+Glasses-Y
+Glasses-N
+The results are different for each gender.
+ANS : c
