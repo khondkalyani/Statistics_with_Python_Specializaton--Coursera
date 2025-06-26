@@ -1,0 +1,47 @@
+Python Basics Assessment
+ Question 1
+ Using either the help function or online documentation, find the default for axis in the Pandas drop function (pandas.DataFrame.drop). Enter your answer below.
+ ANS: 0
+
+
+Question 2
+Using either the help function or online documentation as a resource, select the default option for the kind input parameter for the Numpy sort function (np.sort). (https://docs.scipy.org/doc/numpy-1.15.1/reference/generated/numpy.sort.html)
+The kind parameter indicates the sorting algorithm used.
+a.heapsort
+b.mergesort
+c.stable
+d.quicksort
+ANS: d
+
+Question 3
+What does the following function get_element return when the input is lst = [1, 7, 3, 5]?
+def get_element(lst):
+  new_lst = []
+  for i in lst:
+    new_lst.append(i**2)
+    return lst[1]
+ANS: 7
+
+Question 4
+What is the output of the following code?
+my_dict = {'peaches':'cream', 'cat':'dog', 'this one':'that one'}
+my_dict['this one']
+ANS: 'that one'
+
+Question 5
+What are the values in my_dict? Select all that apply.
+my_dict = {'peaches':'cream', 'cat':'dog', 'this one':'that one'}
+ANS: 'cream','dog', 'that one'
+
+Question 7
+What happens when the function save_plot is called?
+import matplotlib.pyplot as plt
+def save_plot(x, y):
+  plt.plot(x, y)
+  plt.savefig('new_plot')
+ANS:  A plot is outputted and saved as 'new plot'
+
+
+
+
+
