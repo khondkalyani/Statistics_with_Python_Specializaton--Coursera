@@ -1,0 +1,37 @@
+Confidence Intervals Assessment
+
+Question 1
+What numerical value in the column 'napping' indicates that a toddler takes a nap?
+ANS: 1
+
+Question 2
+What is the sample size 𝑛?
+ANS: 20
+
+Question 3
+What is the sample size for toddlers who nap, 𝑛1?
+ANS: 15
+
+Question 4
+What is the sample size for toddler who do not nap, 𝑛2?
+ANS: 5
+
+Question 5
+Given our sample sizes of n1 and n2 for napping and non-napping toddlers respectively, how many degrees of freedom (𝑑𝑓) are there for the associated 𝑡distributions?
+Note your answer in the following format: x, y
+ANS: 14, 4
+
+Question 6
+What is 𝑡* for nap and no nap?
+(Note your answer in the following format truncated after the third decimal place: #.###, #.###)
+ANS: 2.144, 2.776
+
+Question 7
+What is the 95% confidence interval for the average bedtime for toddlers who nap?
+(Note your answer rounded to four decimal places)
+ANS: (19.9767, 20.6313) 
+
+Question 8
+What is the 95% confidence interval for the average bedtime for toddlers who do not nap?
+Note your answer rounded to four decimal places)
+ANS: (18.9597, 20.2203)
