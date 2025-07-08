@@ -1,0 +1,50 @@
+Sample Size & Assumptions
+
+
+Question 1
+A poll was done at a public University asking undergraduate students whether they are an in state student or out of state student. A sample of 232 undergraduate
+students at the University were asked and it was revealed that 43% of students were from out of state. From the results, a 95% confidence interval was calculated
+to be (0.3663, 0.4937).
+Which of the following corresponds to the value of 43%? (Select all that apply)
+Sample proportion
+
+Question 2
+In order to make the above confidence interval researchers first had to check their assumptions. Select all the appropriate assumptions that are needed to create 
+a one population proportion confidence interval.
+The sample proportion comes from data that is considered a simple random sample
+The number of respondents who replied "out of state" must be at least 10
+The number of respondents who replied "in state" must be at least 10
+
+Question 3
+What is the margin of error for the given 95% confidence interval above?
+0.0637
+
+Question 4
+A larger sample was taken and the same sample proportion was found. How would the width of the 95% confidence interval change from our initial interval?
+Shorten
+
+Question 5
+If the researcher would like to have their confidence interval be narrower, more precise, which of the following would achieve this?
+Change the confidence level to 90%
+
+Question 6
+What minimum sample size does the researcher need in order to create a 95% conservative confidence interval with a margin of error of no more than 4%?
+601
+
+Question 7
+What minimum sample size does the researcher need in order to create a 98% conservative confidence interval with a margin of error of no more than 3%?
+1503
+
+Question 8
+Which of the following would be considered an appropriate interpretation of the given 95% confidence interval?
+We are 95% confident that the population proportion of out of state undergraduate students at this University is between 36.63% and 49.37%
+
+Question 9
+Which of the following best describes the confidence level in the context of the problem?
+If we repeated this study many times, each time producing a new sample (of the same size) from which a 95% confidence interval is computed, then 95% of the
+resulting confidence intervals would be expected to contain the population proportion of out of state undergraduate students at this University.
+
+Question 10
+Based on the reported 95% confidence interval (and no additional calculations), does it appear there is a minority of undergraduate students at the University
+that are from out of state?
+Yes, because the entire interval is below 50%
