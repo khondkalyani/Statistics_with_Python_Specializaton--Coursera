@@ -1,0 +1,75 @@
+Name That Scenario
+
+Question 1
+For each question, identify the appropriate statistical scenario described in the problem background.
+Background: In a blind taste test to compare two new juice flavors, grape and apple, consumers were given a sample of each flavor and the results will be used to 
+estimate the percentage of all such consumers who prefer the grape flavor to the apple flavor.
+ANS: Single population proportion    
+
+Question 2
+For each question, identify the appropriate statistical scenario described in the problem background. 
+Background: A company has recently started an exercise program for its workers to assess if it will improve job satisfaction on average, as measured by a 
+questionnaire (with higher scores indicating more satisfied employees).  Scores for 30 randomly selected workers were recorded both before the start of program
+and after the exercise program’s implementation. 
+ANS: Population Mean Difference for Paired Data
+
+Question 3
+For each question, identify the appropriate statistical scenario described in the problem background.
+Background: Over the last ten years, a local college has improved their athletic facilities, implemented online player registration, and offered new payment plans
+for intramural sports. They wish to evaluate if the participation rate in intramural sports is higher today than it was ten years ago. They poll a large
+random sample of alumni that graduated ten years ago and a large random sample of currently enrolled students.
+ANS: Difference in two population proportions
+
+Question 4
+For each question, identify the appropriate statistical scenario described in the problem background.
+Background: A local blood drive urges donors to set up an appointment for their donation. They give donors with an appointment priority over those who come
+in without one. The coordinators would like to estimate the difference in average wait times for donors with an appointment and donors without an appointment.
+ANS: Difference in two population means
+
+Question 5
+For each question, identify the appropriate statistical scenario described in the problem background.
+Background: The Safety Patrol for a ski resort conducts a survey of skiers and snowboarders to assess if there is a significant difference in the rate 
+of skiers and the rate of snowboarders that are able to state the Mountain’s Responsibility Code. A large sample of skiers and snowboarders are polled randomly throughout the day.
+ANS: Difference in two population proportions
+
+Question 6
+For each question, identify the appropriate statistical scenario described in the problem background.
+Background: Police set up a vehicle checkpoint at which drivers are stopped at random and their cars are inspected for safety problems.  Police look to estimate
+the percentage of all cars on the road that may be unsafe.
+ANS: Single population proportion
+
+Question 7
+For each question, identify the appropriate statistical scenario described in the problem background.
+Background: Electric scooters from a new startup company have recently been deployed in major cities across the nation as a cheap form of transportation.
+The company finds that the average scooter trip lasts 12.8 minutes. Looking to expand to smaller towns, the company deploys a small group of scooters to Ann Arbor. 
+The company would like to evaluate if the average trip time is less for the scooters in the town of Ann Arbor. 
+ANS: Single population mean
+
+Question 8
+For each question, identify the appropriate statistical scenario described in the problem background.
+Background: Two methods of treatment, A and B, for a particular disease were investigated. Out of 257 patients treated with method A, 41 were cured of the disease.
+Out of 244 patients treated with method B, 64 were cured of the disease. Does either treatment have a higher healing rate?
+ANS: Difference in two population proportions
+
+Question 9
+For each question, identify the appropriate statistical scenario described in the problem background.
+Background: A local gym offers a variety of fitness classes, one of these being Cardio Crash – a class designed to get participants’ heart rates up.
+Workout instructors would like to learn more about the average difference in heart rate during the class. They record each participant's heart rate before the 
+class begins and midway through the workout routine.
+ANS: Population mean difference for paired data
+
+Question 10
+For each question, identify the appropriate statistical scenario described in the problem background.
+Background: A local grocery store recently installed new scanning machines at the self-service checkout kiosks to improve checkout speeds. On average, 
+it used to take customers 6 minutes to checkout at the self-service kiosks. The store records the checkout times of 35 randomly selected customers using the
+newly updated self-service kiosks.
+ANS: Single population mean
+
+
+
+
+
+
+
+
+
