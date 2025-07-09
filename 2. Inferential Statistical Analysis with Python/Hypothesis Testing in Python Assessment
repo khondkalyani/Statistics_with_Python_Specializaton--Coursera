@@ -1,0 +1,34 @@
+Hypothesis Testing in Python Assessment
+
+Introduction
+Recall that we discussed two different types of hypothesis tests for means earlier in the lectures. In the single mean hypothesis test lecture, 
+we tested the hypothesis that a sample mean was greater than the null hypothesis mean. In the difference in means for two independent samples lecture, 
+we tested the hypothesis that the difference between two sample means was not equal to the null hypothesis difference.
+In this quiz, you will perform two similar hypothesis tests. Assume normality of the sampling distribution and equal variances.
+In the first test, the null hypothesis is that the average night bedtime for toddlers who nap is equal to the average bedtime for toddlers who don’t nap, and the 
+alternative hypothesis is that the average bedtime for toddlers who nap is later than the average bedtime for toddlers who don’t nap.
+In the second test, the null hypothesis is that the average 24 hour sleep duration for napping toddlers is equal to the average 24 hour sleep duration for 
+toddlers who don’t nap, and the alternative hypothesis is that the average 24 hour sleep duration for napping toddlers is different from the average for toddlers 
+who don’t nap.
+
+Question 1
+What is the difference of sample mean bedtimes for toddlers who nap and toddlers who don’t nap? (Rounded to three decimal places.)
+ANS: 0.714
+
+Question 2
+Given our sample size, how many degrees of freedom (𝑑𝑓) are there for the associated 𝑡 distribution? (Answer is an integer and again, assume that the two sample variances are equal)
+ANS: 18
+
+Question 3
+What is the 𝑡-test statistic for the first hypothesis test? (rounded to two decimal places)
+ANS: 2.41
+
+Question 4
+What is the p-value for the first hypothesis test? (rounded to four decimal places)
+ANS: 0.0134
+
+Question 5
+For the second hypothesis test, do you reject or fail to reject the null hypothesis, given α = 0.05?
+ANS: Fail to reject
+
+
