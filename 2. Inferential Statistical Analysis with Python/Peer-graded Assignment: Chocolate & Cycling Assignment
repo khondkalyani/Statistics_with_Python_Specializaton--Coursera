@@ -1,0 +1,55 @@
+Peer-graded Assignment: Chocolate & Cycling Assignment
+
+Dark or White?
+
+Enter the text from your memorandum into the text box provided. If desired, you can use text formatting to increase the readability of your memorandum. 
+Submit your assignment by the deadline in order to give peers time to review your assignment.
+
+To,
+The Trainer,
+U S bicycle team.
+
+Subject : Recommendation of chocolates in the diet of bicycle riders.
+
+The study about the effects of the consumption of chocolate (dark chocolate and white chocolate) on cyclists during cycling. Our parameter of interest is the
+all-out bicycle sprint performance (meters). The results we got from the study after conducting it on 9 male participants was measured in 2 trails, one after 
+consumption of dark chocolate for a week and one after consumption of white chocolate for a week. So, we have a population paired data.  
+The order in which the participants consumed dark or white chocolate was selected at random, we will consider our data as a random sample and they are independent 
+of one another. We have been told to consider the data normal.
+
+Analysis and interpretation of results :  
+After having white chocolates for a week and after consuming dark chocolate for a week. We have the mean, and standard deviation for all the three along with
+the corresponding p-value of white and dark chocolate compared with the baseline.  
+1. p value = 0.319 
+2. mu1 - mu = 1606 - 1367 = 239 meters 
+3. 95% confidence interval of dark chocolate: (165 m, 314 m)
+4. m2 - mu= 1419 - 1367 = 52 meters 
+
+The difference in mean (mu1 - mu2) = 1606 - 1419 = 187 meters 95% confidence interval for dark chocolate vs white chocolate: (82 m, 292 m)
+
+We can see that difference between average distance travelled after consumption chocolate compare to baseline is positive. Hence we can say that performances
+are better after consumption of chocolates. But, is it significant?  To check we see that at the 95% confidence interval, we get a range of reasonable values to be
+between 165 meters and 314 meters and our value happens to be 239 m which is between the confidence interval.  For the hypothesis test, we see that
+we get a p-value of 0.001 which implies that if we consider our Null hypothesis to be true, the values we got is 0.1% possible. 
+That means we have sufficient proof to reject our Null hypothesis. This implies that  there is  significant difference between the performance of participants 
+after having dark chocolate.    
+
+We can see that difference between average distance travelled after consumption white chocolate compare to baseline is positive. Hence we can say that 
+performances are better after consumption of chocolates. But, is it significant? For the hypothesis test, we see that we get a p-value of 0.319 which implies
+that if we consider our Null hypothesis to be true, the values we got is 3.19% possible. That means we have sufficient proof to fail  to reject our Null hypothesis.
+This implies that  there is  no significant difference between the performance of participants after having white chocolate.    
+Now we see that the difference between consuming dark chocolate and white chocolate on the distance cycled is over 187 meters in favor of dark chocolate.
+So, from our sample we see that dark chocolate makes the cyclists perform better. We see that the confidence interval is (82 meters, 292 meters). 
+187 meters lies inside the confidence interval. Since both values in the confidence interval is positive, we can also conclude with 95% confidence that dark
+chocolate makes cyclists perform better than those who take white chocolate.
+For our Hypothesis test, we see that the p-value we get is 0.003 which is less than 0.05, our significance level. So, from this, we see that if our Null 
+hypothesis was true, we would get the value of 187 meters only 0.003% of the time. This makes our null hypothesis look ridiculous. And since the value is way less 
+than 0.05, we will reject the null hypothesis and conclude that there is significant difference between the effect of dark chocolate versus white chocolate on
+cyclists. In addition, we can say that dark chocolate performs much better than white chocolate.
+
+Conclusion : 
+From this, we can conclude that there is significant difference between the performance of cyclists when they took chocolates versus their performance when they
+did not take chocolates. Chocolates seem to have a positive effect on their performance. In addition, consuming dark chocolate gives a greater performance boost 
+than consuming white chocolates.  Hence the inclusion of chocolates  in the diet of bicycle riders is promoted for better results in the race. And the dark chocolate
+over white chocolate is favored. 
+
