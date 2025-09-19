@@ -1,0 +1,28 @@
+Question 1
+A simple random sample of 500 undergraduates at a large university self-administered a political knowledge test, where the maximum score 
+is 100 and the minimum score is 0. The mean score was 62.5, and the standard deviation of the scores was 10. What is a 95% confidence interval
+for the overall undergraduate mean at the university?
+ANS: (61.62, 63.38)
+
+Question 2
+Given the result in Problem 1, what would we conclude about a hypothesized mean of 63?
+ANS: We have evidence in support of this hypothesized mean.
+
+Question 3
+How do we interpret the confidence interval in Problem 1?
+ANS: 95% of all confidence intervals computed this way will cover the true population mean (in expectation).
+
+Question 4
+We perform a two-tailed, one-sample t-test of the null hypothesis that the true population mean is 63, versus the alternative hypothesis 
+that the mean is different from 63. We find a test statistic of t = -1.12 (df = 499), with a p-value of 0.264. What is our decision about
+the null hypothesis at an alpha=0.05?
+ANS: We fail to reject it; the mean is not significantly different from this hypothesized mean.
+
+Question 5
+A new experimental drug for reducing the pain due to migraine headaches is being tested in a randomized controlled trial. A total of 100 
+participants with a history of migraine headaches are given the drug, and 100 participants with the same history are given a placebo pill.
+Each participant is asked about their pain one hour after taking the medication, and whether it has been reduced (yes or no). A biostatistician
+computes an exact 95% confidence interval for the difference in the proportions of people experiencing pain relief within one hour (treatment
+minus control). The 95% confidence interval for the difference in proportions is (-0.05, 0.09). What should the biostatistician conclude?
+ANS: There is no evidence at all of the experimental pill being effective; the proportions are statistically identical.
+
