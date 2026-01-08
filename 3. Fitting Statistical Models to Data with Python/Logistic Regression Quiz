@@ -1,0 +1,65 @@
+Question 1
+Imagine that you are collecting variables while participants attempted to shoot a soccer ball.  Which of the following collected variables could be predicted using 
+a logistic regression model?
+Scoring a soccer goal on a given shot
+Whether a shot on goal traveled more than 20 feet
+Sex (male vs. female)
+
+Question 3
+Two probabilities have been transformed using the logit function.  The two values after transformation are -2 and 0.25.  Which of the two values corresponds to a 
+higher original probability?
+0.25
+
+Question 4
+NHANES records whether an individual has smoked 100 cigarettes or more.  The next few questions will focus on fitting models to predict whether someone has 
+smoked 100+ cigarettes.
+First, a model is fit using body mass index (BMI) as the variable to predict smoking status.  The output is here:
+What does the coefficient of 0.0037 mean?
+For each increase in one in BMI, the log odds of smoking 100 cigarettes increases by about 0.0037, on average.
+
+Question 5
+Next, a model is fit adding Age as an additional covariate to BMI as the variables predicting smoking status.  The output is here:
+What does the coefficient of 0.0169 mean in context?
+For each increase of one in Age, the log odds of smoking 100 cigarettes increases by about 0.0169 while holding BMI constant, on average.
+
+Question 6
+Based on the logistic regression with both Age and BMI as covariates, are the coefficients statistically significant at a two-sided 10% significance level?
+Only the coefficient for Age is significant
+
+Question 7
+The 95% confidence interval for the coefficient for Age is given above as (0.014, 0.020).  If instead we wanted a 90% confidence interval, how would the width
+of the interval change?
+It would be narrower
+
+Question 8
+We’d like to predict the log odds of smoking 100+ cigarettes for a given individual using the logistic regression model with the two variables: BMI and Age. 
+For an individual with a BMI of 22 who is 45 years old, what would the predicted log odds be?
+-0.417
+
+Question 9
+The sample of adults surveyed in NHANES contains adults age 20-80 with BMIs of 14.5-64.6.  For the individual with a BMI of 22 who is 45 years old, do you 
+trust the predicted log odds calculated above as being reasonable?
+Yes, this is interpolation
+
+Question 10
+Fill in the blanks.  With 95% confidence, I estimate that the increase in log odds of smoking 100+ cigarettes for each increase by one in BMI, while holding Age
+constant, is between ____ and ____, on average.
+-0.005 and 0.011
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
