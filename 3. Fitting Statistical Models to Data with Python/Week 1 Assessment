@@ -1,0 +1,26 @@
+Question 1
+The figure below presents the fits of four different regression models to the same set of data, where there is a predictor variable (x) and a dependent variable (y) of interest. Which of the four plots
+reflects a model that fits the data well?
+Plot (b)
+
+Question 2
+A researcher at a large pharmaceutical company wishes to study the effect of a new experimental drug on the amount of pain suffered by people who frequently experience migraines. The researcher conducts a 
+randomized experiment, where half of the migraine sufferers who volunteer receive the experimental drug, and half receive a placebo pill. The researcher then records a pain score two hours later, and wants
+to formally model the pain score as a function of experimental group and other confounding variables (age, BMI, gender, and race/ethnicity). 
+What is the dependent variable in this model, and what are the independent variables?
+Dependent = Pain Score, Independent = Experimental Group, Age, BMI, Gender, Race/Ethnicity
+
+Question 3
+Suppose that the migraine researcher was also interested in pain score trends immediately following administration of the drug. The researcher continues to collect pain score measurements at four, 
+six, and eight hours after administration of either the experimental drug or the placebo pill. The researcher wants to then model the pain score as a function of the previously mentioned variables in
+addition to time since administration. 
+What needs to change about the model that the researcher is now fitting?
+The correlation of the repeated measures needs to be taken into account, but nothing else needs to be change 
+
+Question 4
+After performing the analysis, the researcher writes a press release describing the results of the experiment, and claims that the new experimental drug will reduce pain by 25% based on the results of the 
+modeling.
+What else does the researcher need to say about this finding?
+Answers B and C
+
+
