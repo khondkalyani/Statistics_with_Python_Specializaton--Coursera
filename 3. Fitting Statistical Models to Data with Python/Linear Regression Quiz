@@ -1,0 +1,89 @@
+Question 1
+Which of the following scatterplot(s) would fitting a linear regression model to the data be appropriate? (Select all that apply.)
+a
+b
+
+Question 2
+Which of the following scatterplot(s) would have a correlation coefficient that is close to 0? (Select all that apply.)
+c
+d
+e
+
+Question 3
+Which of the following scatterplots would have the highest absolute correlation (i.e. shows the strongest linear relationship?)
+d
+
+Question 4
+What distribution do the true errors need to follow in order to perform various inference procedures in linear regression?
+True errors must be N(0, σ2)
+
+Question 5
+Which of the following are assumptions needed for conducting a hypothesis test on the population slope in a linear regression analysis? (Select all that apply.)
+True errors must be normally distributed.
+True errors have constant variance.
+The population relationship between the dependent variable and the explanatory variable is in fact linear.
+
+Question 6
+A study was conducted to model the linear relationship between Las Vegas nightly hotel cost (dollars) and hotel rating (on a 100 point scale).
+Nightly hotel cost will be used to predict hotel rating. A random sample of 30 Las Vegas hotels was collected and an estimated slope (b1) was found to be 0.21. 
+Which of the following is a correct interpretation of the estimated slope (b1)?
+The hotel rating is estimated to increase by 0.21 points for every additional dollar spent on nightly hotel cost, on average.
+
+Question 7
+Background for Questions 7 - 13
+In 1905, R.J. Gladstone conducted a study of the relationship between brain weight and size of the head. Brain weight (grams) and head size (cubic cm) measurements 
+were performed for 237 adults. Two categorical variables for Sex (0=male, 1=female) and Age (0=young, 20-46 years old, 1=old, 46+ years old) are available. 
+The linear regression results for regressing brain weight on the head size are summarized below.
+One subject in the study has a head size of 3500 cm3 and a brain weight of 1430.86 grams. What is the value of the observed error (residual) for this subject?
+183.3 grams  
+
+Question 8
+The study relating brain weight (grams) and head size (cubic cm) yielded an R-squared of 0.6393. Which of the following is a correct interpretation of the 
+R-squared?
+63.93% of the variation in brain weight can be accounted for by the linear relationship with head size.
+
+Question 9
+What is the appropriate p-value for testing if there is a significant positive linear relationship between brain weight and head size?
+<1e-16
+
+Question 10
+A 95% confidence interval for the mean brain weight for all adults in 1905 with a head size of 3400 cm3 was calculated to be (1210.14 grams, 1232.33 grams). 
+How would the width of the 95% prediction interval for the brain weight for an individual adult in 1905 with a head size of 3400 cm3 compare to this one?
+Wider
+
+Question 11
+A 95% confidence interval for the mean brain weight for all adults in 1905 with a head size of 3400 cm3 was calculated to be (1210.14 grams, 1232.33 grams).
+How would the width of the 95% confidence interval for the mean brain weight for all adults in 1905 with a head size of 3600 cm3 compare to this one?
+Narrower
+
+Question 12
+The head size of an 8 year old child is found to be 1800 cm3, What caution(s) should be noted if asked to predict this child’s brain weight? 
+(Select all that apply.)
+Extrapolation - A head size of 1800 cm3 is outside the range of our data.
+Extrapolation - The model was created using only data for adults, not children.
+
+13.
+Question 13
+A new model was fit, this time adding in the two categorical variables Sex (0=male, 1=female) and Age (0=young, 20-46 years old, 1= old, 46+ years old),
+the model summary is shown below.
+Which of the following is an appropriate interpretation of the estimated coefficient for age of -23.97 in the above table? 
+Keeping head size and sex constant, the average brain weight for older subjects is estimated to be 23.97 grams less than the average brain weight for 
+younger adults.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
