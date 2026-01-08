@@ -1,0 +1,37 @@
+
+Question 1
+What is the value of the coefficient for predictor bmi?
+Your answer should be written in this format:  #.####
+0.3365
+
+Question 2
+Are the predictors for this model statistically significant, yes or no? (Hint: What are their p-values?)
+Yes
+
+Question 3
+What most likely happened to our R-Squared value when we added the predictor bp to our initial model?
+Increased
+
+Question 4
+What type of model should we use when our target outcome, or dependent variable, is continuous?
+Linear Regression
+
+Question 5
+Which of our predictors has the largest coefficient?
+DMDEDUC2x[T.x9_11]
+
+Question 6
+Which values for DMDEDUC2x and RIAGENDRx are represented in our intercept, or what is our reference level?
+Female and College 
+
+Question 7
+What model should we use when our target outcome, or dependent variable is binary, or only has two outputs, 0 and 1?
+Logistic Regression  
+
+
+
+
+
+
+
+
