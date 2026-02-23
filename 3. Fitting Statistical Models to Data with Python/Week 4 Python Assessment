@@ -1,0 +1,38 @@
+Question 1
+
+
+For this problem, we are going to be using the above code to recreate some of the mathematics behind the "Bayesian Approaches to Statistics and Modeling" lecture. The math has already been worked out for you, so you will only have to manipulate code, but if you are curious of the math behind the update for the mean of a distribution, you can look here: 
+https://en.wikipedia.org/wiki/Conjugate_prior.
+The math for this problem is located under the continuous distributions section where our model parameter is mu and we have a known variance sigma^2
+Before we get started, we need to get some values. 
+First, what is the mean of the prior that we are using?
+Ans: 100
+
+Question 2
+What is the standard deviation of the prior?
+Ans: 10
+
+Question 3
+Let's say that we observe a person with an IQ of 110. Which way should the posterior distribution, after our Bayesian update, shift?
+Ans: Right
+
+Question 4
+Now, lets say that I observe two more people and I see that they also have IQs of 110. So we have three people with IQs of 110. How does the variance of my estimate change from my prior? We can do this in the code by setting:
+new_data = [110, 110, 110]
+Ans: The variance decreases
+
+Question 5
+What is the posterior mean after observing three people with an IQ of 110 in a row?
+Ans: 109.70873786407766
+
+Question 6
+If I observe now five people: the first three have an IQ of 110, and the last two have an IQ of 125, which of the following are true?
+Ans: 
+The posterior mean is equal to 115.717
+The posterior standard deviation is less than the prior standard deviation
+The posterior standard deviation is equal to 1.768 
+
+
+
+
+
